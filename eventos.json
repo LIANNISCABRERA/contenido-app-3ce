@@ -3,5 +3,150 @@
     "titulo": "Marzo 2020",
     "descripcion": "Finalización del primer edificio en la UCI, dando origen al ecosistema físico del parque.",
     "imagenNombre": "evento_marzo2020"
+  },
+  {
+    "titulo": "Diciembre 2020 – IASP",
+    "descripcion": "Participación en el evento internacional que marcó la proyección global del parque.",
+    "imagenNombre": "evento_iasp"
+  },
+  {
+    "titulo": "Julio 2021 – Constitución de 3CE",
+    "descripcion": "Creación oficial de la Sociedad Parque Científico Tecnológico de La Habana.",
+    "imagenNombre": "evento_constitucion"
+  },
+  {
+    "titulo": "Enero 2022 – Inicio de operaciones",
+    "descripcion": "Comienzo de las actividades de incubación y servicios tecnológicos.",
+    "imagenNombre": "evento_inicio"
+  },
+  {
+    "titulo": "Marzo 2024 – Feria Informática",
+    "descripcion": "Participación destacada en la Feria Internacional Informática 2024, firmando alianzas estratégicas.",
+    "imagenNombre": "evento_informatica2024"
+  },
+  {
+    "titulo": "Junio 2024 – Nuevas incubaciones",
+    "descripcion": "Inicio de incubación de las Empresas de Base Tecnológica PCIARA y AUTOVIAJES.",
+    "imagenNombre": "evento_incubacion2024"
   }
 ]
+,
+{
+  "residentes": {
+  "empresas": [
+    "logo_rigel",
+    "logo_paxioli",
+    "logo_nufor",
+    "logo_fadiar",
+    "logo_envacons",
+    "logo_aito",
+    "logo_alsoluciones",
+    "logo_tecnoap",
+    "logo_tecnotex",
+    "logo_tecnoimport",
+    "logo_uci",
+    "logo_3ce"
+  ],
+  "clientes": [
+    "logo_cupet",
+    "logo_biolab",
+    "logo_cnesa",
+    "logo_citmatel",
+    "logo_cinesoft",
+    "logo_desof",
+    "logo_cubatel",
+    "logo_gedeme",
+    "logo_tecnoescena",
+    "logo_tecnoazucar"
+  ]
+}
+,
+  "marco_legal": [
+  {
+    "titulo": "Constitución de la República",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/constitucion-de-la-republica-de-cuba.pdf"
+  },
+  {
+    "titulo": "Ley 154/2022 - Derechos de autor",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/ley-154-2022-de-los-derechos-del-autor-y-del-artista-interprete.pdf"
+  },
+  {
+    "titulo": "Decreto Ley 203/1999 - Marcas y otros signos distintivos",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/decreto-ley-203.pdf"
+  },
+  {
+    "titulo": "Decreto Ley 290/2012 - Invenciones y modelos industriales",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/decreto-ley-290-modif.pdf"
+  },
+  {
+    "titulo": "Decreto Ley 7/2020 - Sistema de ciencia, tecnología e innovación",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/decreto-ley-7-2020-del-sistema-de-ciencia-tecnologia-e-innovacion.pdf"
+  },
+  {
+    "titulo": "Resolución 287/2019 CITMA - Reglamento de programas y proyectos de I+D+i",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/resolucion-287-2019-citma.pdf"
+  },
+  {
+    "titulo": "Ley 118/2014 - Inversión extranjera",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/ley-118-2014-ley-de-la-inversion-extranjera.pdf"
+  },
+  {
+    "titulo": "Decreto Ley 370/2018 - Informatización de la sociedad",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/decreto-ley-370-2018-sobre-la-informatizacion-de-la-sociedad-en-cuba.pdf"
+  },
+  {
+    "titulo": "Resolución 124/2019 MINCOM - Producción y evaluación de software",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/resolucion-124-2019.pdf"
+  },
+  {
+    "titulo": "Resolución 125/2019 MINCOM - Registro de aplicaciones informáticas",
+    "urlPdf": "https://www.3ce.cu/sites/default/files/2023-01/resolucion-125-2019.pdf"
+  },
+  {
+    "titulo": "Ley 116/2013 - Código de trabajo",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-01/ley-116-codigo-del-trabajo.pdf"
+  },
+  {
+    "titulo": "Resolución 237/2023 - Servicios jurídicos a proyectos de I+D+i",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-06/res237delminjus.pdf"
+  },
+  {
+    "titulo": "Decreto 363/2019 - Parques Científicos y Empresas de Ciencia y Tecnología",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-01/decreto-363-2019-de-los-parques-cientificos-y-tecnologicos.pdf"
+  },
+  {
+    "titulo": "Resolución 434/2019 MFP - Exención de impuestos y aranceles",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-01/resolucion-no.-434-2019-mfp.pdf"
+  },
+  {
+    "titulo": "Resolución 327/2022 MINCEX - Comercio exterior para formas no estatales",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-01/resolucion-327-2022-mincex.pdf"
+  },
+  {
+    "titulo": "Ley 141/2021 - Código de procesos",
+    "urlPdf": "https://www.3ce.cu/index.php/sites/default/files/2023-01/ley-141-2021-codigo-de-procesos.pdf"
+  }
+]
+,
+ "ecosistema": {
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "texto": "El PCT de La Habana es un entorno de innovación para el desarrollo de proyectos innovadores por parte de personas naturales y jurídicas (nacionales e internacionales)..."
+    },
+    {
+      "titulo": "Ubicación e Infraestructura",
+      "texto": "El PCT se encuentra ubicado en el campus de la Universidad de las Ciencias Informáticas (UCI), con una localización geográfica con potencial de crecimiento..."
+    },
+    {
+      "titulo": "Características del Entorno de Innovación",
+      "texto": "Generador de riqueza: Producción y comercialización de productos y servicios de alto valor agregado... Concentra actividades de alta tecnología... Promueve la inversión nacional y extranjera..."
+    },
+    {
+      "titulo": "Elementos del Ecosistema",
+      "texto": "Investigación Científica, Formación postgraduada, Base de Conocimiento, Infraestructura de apoyo, TICs, Trabajo colaborativo, Recursos Humanos, Relaciones internacionales..."
+    }
+  ],
+  "imagenes": ["img_ecosistema1", "img_ecosistema2", "img_ecosistema3"]
+}
+
